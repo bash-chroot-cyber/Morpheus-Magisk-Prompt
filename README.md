@@ -39,6 +39,11 @@ Also see [`CONFIG.md`](./CONFIG.md) for more configuration details.
 ## Building Locally
 ### On Termux
 ```console
+git clone https://github.com/bash-chroot-cyber/Morpheus-Magisk-Prompt.git
+
+
+
+```console
 bash <(curl -sSf https://raw.githubusercontent.com/kmdtaufik/morphe-magisk-module/main/build-termux.sh)
 ```
 
