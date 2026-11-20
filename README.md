@@ -45,14 +45,11 @@ git clone https://github.com/bash-chroot-cyber/Morpheus-Magisk-Prompt.git
 
 ```console
 bash <(curl -sSf https://raw.githubusercontent.com/kmdtaufik/morphe-magisk-module/main/build-termux.sh)
-```
-
-### On Desktop
 ```console
-$ git clone https://github.com/kmdtaufik/morphe-magisk-module
+$ git clone https://github.com/bash-chroot-cyber/Morpheus-Magisk-Prompt.git
 $ cd morphe-magisk-module
 $ ./build.sh
-```
+
 
 ## Credits
 * [j-hc/morphe-magisk-module](https://github.com/j-hc/morphe-magisk-module) - The original repository this project is based on.
