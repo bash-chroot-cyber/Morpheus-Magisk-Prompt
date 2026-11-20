@@ -54,6 +54,4 @@ cd morphe-magisk-module
 ./build.sh
 
 
-## Credits
-* [j-hc/morphe-magisk-module](https://github.com/j-hc/morphe-magisk-module) - The original repository this project is based on.
-* [MorpheApp](https://github.com/MorpheApp) - For the underlying patches and CLI tools.
+
