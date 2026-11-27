@@ -1,6 +1,6 @@
 {
-  "version": "v21.30.216 (patches 2.3.0.mpp)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/bash-chroot-cyber/Morpheus-Magisk-Prompt/releases/download/1/youtube-morphe-magisk-v21.30.216-all.zip",
+  "version": "v21.30.216 (patches 2.4.0.mpp)",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/bash-chroot-cyber/Morpheus-Magisk-Prompt/releases/download/2/youtube-morphe-magisk-v21.30.216-all.zip",
   "changelog": "https://raw.githubusercontent.com/bash-chroot-cyber/Morpheus-Magisk-Prompt/update/build.md"
 }
